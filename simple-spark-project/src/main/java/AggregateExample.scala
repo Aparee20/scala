@@ -10,7 +10,7 @@ object AggregateExample {
     
     val conf = new SparkConf().setAppName("Aggregate Example").setMaster("local[2]").set("spark.executor.memory", "1g")
     val sc = new SparkContext(conf)
-    val input = sc.parallelize(List(1, 2, 3, 4,5,6,7))
+    val input = sc.parallelize(List(1, 2, 3, 4,5,6,7,8,9))
 
     val result = input.aggregate((0, 0))(
                (acc, value) => (acc._1 + value, acc._2 + 1),
