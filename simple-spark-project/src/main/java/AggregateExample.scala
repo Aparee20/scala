@@ -20,4 +20,3 @@ object AggregateExample {
     
     println(avg)
 }}
-
