@@ -1,0 +1,328 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/WindowSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/simpleSpark.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TwitterPopularTags.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseHeader.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TransformSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseData.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/People.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/WindowSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/simpleSpark.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TwitterPopularTags.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseHeader.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TransformSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseData.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/People.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/WindowSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/simpleSpark.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TwitterPopularTags.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseHeader.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/TransformSparkStreaming.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseData.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala, /Users/ankurpareek/repository/code/simple-spark-project/src/main/java/People.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 21 sources: invalidated sources (21) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 21 Scala sources to /Users/ankurpareek/repository/code/simple-spark-project/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.2[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4a0a02e9, interfacing (CompilerInterface) with Scala compiler version 2.10.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes:/Users/ankurpareek/.sbt/boot/scala-2.10.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/ankurpareek/repository/code/simple-spark-project/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala:11: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setAppName("Aggregate Example").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/AggregateExample.scala:12: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m    val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.rdd.JdbcRDD[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:18: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m       val conf = new SparkConf().setAppName("Duplicate RDD").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/DuplicateRecords.scala:19: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m       val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:7: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.storage.StorageLevel[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:12: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setMaster("local[2]").setAppName("MyfirstStreamingAp").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/FileSparkStream.scala:13: not found: type StreamingContext[0m
+[0m[[31merror[0m] [0m    val ssc = new StreamingContext(conf, Seconds(10))[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.rdd.JdbcRDD[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.hive._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:13: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setAppName("Duplicate RDD").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:14: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m    val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:16: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0m    import org.apache.spark.storage.StorageLevel._[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/HiveIncrementalExample.scala:17: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0m    val hiveContext = new org.apache.spark.sql.hive.HiveContext(sc)[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.rdd.JdbcRDD[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:18: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m       val conf = new SparkConf().setAppName("JDBC RDD").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:19: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m       val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JdbcRddExample.scala:21: not found: type JdbcRDD[0m
+[0m[[31merror[0m] [0m       val myRDD = new JdbcRDD( sc, () => DriverManager.getConnection(url,username,password) ,[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.hadoop.fs.shell.Count[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:9: not found: object au[0m
+[0m[[31merror[0m] [0mimport au.com.bytecode.opencsv.CSVParser[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:10: not found: object au[0m
+[0m[[31merror[0m] [0mimport au.com.bytecode.opencsv.CSVReader[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:16: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setAppName("Nyse MapReduce Application").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/JoinDatasetsExample.scala:17: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m    val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming.kafka._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:7: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala:19: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.Logging[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala:24: not found: type Logging[0m
+[0m[[31merror[0m] [0mobject StreamingExamples extends Logging {[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:32: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val sparkConf = new SparkConf().setAppName("KafkaWordCount").setMaster("local[2]")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:33: not found: type StreamingContext[0m
+[0m[[31merror[0m] [0m    val ssc = new StreamingContext(sparkConf, Seconds(2))[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/KafkaWordCount.scala:37: not found: value KafkaUtils[0m
+[0m[[31merror[0m] [0m    val lines = KafkaUtils.createStream(ssc, zkQuorum, group, topicMap).map(_._2)[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:7: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.storage.StorageLevel[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:12: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setMaster("local[2]").setAppName("MyfirstStreamingAp").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NetworkSparkStream.scala:13: not found: type StreamingContext[0m
+[0m[[31merror[0m] [0m    val ssc = new StreamingContext(conf, Seconds(10))[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala:8: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setAppName("Nyse MapReduce Application").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/NyseMapReduce.scala:9: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m    val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:9: not found: type SparkConf[0m
+[0m[[31merror[0m] [0mval conf = new SparkConf().setAppName("Simple Spark SQL Application With RDD To DF")[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:11: not found: type SparkContext[0m
+[0m[[31merror[0m] [0mval sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/RDDToDataFramesWithCaseClasses.scala:12: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mval sqlContext = new  org.apache.spark.sql.SQLContext(sc)[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.SQLContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:7: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.SQLContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:17: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m  val conf = new SparkConf().setAppName("SimpleSparkSQL Application").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:18: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m  val sc = new SparkContext(conf)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SimpleSparkSqlExample.scala:20: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0m  val sqlc = new org.apache.spark.sql.SQLContext(sc)//sqlsc[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkConf[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.Column[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.functions._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.SQLContext[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:7: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.SQLImplicits[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:9: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.expressions.Window[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:10: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.TypedColumn[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:11: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.Encoder[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:12: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.sql.Encoders[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:13: object databricks is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.databricks.spark.csv[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:20: not found: type SparkConf[0m
+[0m[[31merror[0m] [0m    val conf = new SparkConf().setAppName("Simple Application").setMaster("local[2]").set("spark.executor.memory", "1g")[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:21: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0m    val sc = new org.apache.spark.SparkContext(conf)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/SparkSqlCsvJsonExample.scala:22: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0m    val sqlc = new org.apache.spark.sql.hive.HiveContext(sc)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala:1: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming.{Seconds, StreamingContext}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala:2: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.streaming.StreamingContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StatefulWordCount.scala:13: not found: type StreamingContext[0m
+[0m[[31merror[0m] [0m    val ssc = new StreamingContext("local[2]", "Statefulwordcount", Seconds(10))[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala:21: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.log4j.{Level, Logger}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ankurpareek/repository/code/simple-spark-project/src/main/java/StreamingExamples.scala:28: not found: value Logger[0m
+[0m[[31merror[0m] [0m    val log4jInitialized = Logger.getRootLogger.getAllAppenders.hasMoreElements[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0m120 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
